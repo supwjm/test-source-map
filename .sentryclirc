@@ -1,0 +1,10 @@
+[auth]
+token=c8dfc4944c78462a9c27c3cc921b20b61d1cbbfa4a084ab0bea6fdbf3212f43c
+
+[defaults]
+org=tc-frontend
+project=test
+url=https://tczg-sentry.tianchendajiankang.com
+VERSION="1.0.0"
+SOURCEMAPS_PATH="./dist/js"
+URL_PREFIX="~/js/"
