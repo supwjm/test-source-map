@@ -12,7 +12,7 @@ module.exports = defineConfig({
       project: projectName, // 项目名称
       apiKey: '', // key 值
       release(hash) { // release版本
-        return 'test-v6'
+        return 'test-v7'
       },
       baseSentryURL: '', // 配置指到我们的自建服务器，api/0 是固定
       include: /\.map$/   //正则，匹配哪些文件上传

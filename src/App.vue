@@ -6,7 +6,7 @@
 export default {
   name: 'App',
   mounted(){
-    throw('报错了');
+    throw('something go wrong');
   },
   methods: {
     showEorror(){

@@ -9,7 +9,7 @@ const app = createApp(App)
 Sentry.init({
     app,
     dsn: "",
-    release: 'test-v6',
+    release: 'test-v7',
     integrations: [
       new BrowserTracing({
         tracingOrigins: ["localhost", /^\//],
